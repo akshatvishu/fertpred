@@ -1,0 +1,15 @@
+# Ignored Folder
+env/
+
+# Ignored Files
+notebooks/rough.txt
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
